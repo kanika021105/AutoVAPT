@@ -1,0 +1,106 @@
+Missing Anti-clickjacking Header-Medium
+Cookie without SameSite Attribute-Low
+Server Leaks Version Information via "Server" HTTP Response Header Field-Low
+Content Security Policy (CSP) Header Not Set-Medium
+Session Management Response Identified-Informational
+Server Leaks Version Information via "Server" HTTP Response Header Field-Low
+X-Content-Type-Options Header Missing-Low
+Content Security Policy (CSP) Header Not Set-Medium
+Server Leaks Version Information via "Server" HTTP Response Header Field-Low
+Content Security Policy (CSP) Header Not Set-Medium
+Server Leaks Version Information via "Server" HTTP Response Header Field-Low
+Server Leaks Version Information via "Server" HTTP Response Header Field-Low
+X-Content-Type-Options Header Missing-Low
+Server Leaks Version Information via "Server" HTTP Response Header Field-Low
+X-Content-Type-Options Header Missing-Low
+Server Leaks Version Information via "Server" HTTP Response Header Field-Low
+Authentication Request Identified-Informational
+Session Management Response Identified-Informational
+Directory Browsing-Medium
+Directory Browsing-Medium
+Directory Browsing-Medium
+Hidden File Found-Medium
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
+User Agent Fuzzer-Informational
