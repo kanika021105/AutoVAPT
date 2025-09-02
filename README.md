@@ -21,10 +21,8 @@ It helps security researchers and developers identify potential vulnerabilities 
 
 ##  Project Structure
 AutoVAPT/
-┣  scripts ← automation scripts (Python)
-┣ reports ← auto-generated vulnerability reports
-┣  docs ← project documentation
-┣  screenshots ← screenshots for README + report
+┣ scripts ← automation scripts (Python)
+┣ vuln_report.txt ← vulnerability report
 ┣ README.md ← full project explanation
 ┣ requirements.txt ← Python dependencies
 
@@ -41,15 +39,8 @@ pip install -r requirements.txt
 # Usage
 Run an automated scan with:
 python scripts/scan.py --target http://example.com
-Reports will be saved in the reports/ folder.
-Example: reports/vuln_report.txt
-# Sample Output
-Here’s an example vulnerability report:
-# Contributing
-Contributions are welcome!
-Fork the repo
-Create a new branch (feature-xyz)
-Commit your changes
-Submit a PR
+Example: vuln_report.txt
+
 # license
 This project is licensed under the MIT License.
+
